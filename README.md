@@ -1,4 +1,5 @@
 ### Hi there 👋
+*Eat my dick retard😄😄😄😄*
 
 <!--
 **Viesha/Viesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: it
 - ⚡ Fun fact: ive been involved in tax fraud
+- never commit straight to the main branch retard...
 -->
